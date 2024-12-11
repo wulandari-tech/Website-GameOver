@@ -15,19 +15,19 @@
 1. **Index Page (Welcome Page):**
    - A visually appealing introduction to the website.
    - Highlights the platform's key features and purpose.
-   - ![Uploading ScreenRecording2024-12-11001534-ezgif.com-video-to-gif-converter (1).gif…]()
+   - ![Index Page](https://github.com/AHMAD-JX/game-over/blob/a0ce29ad0bbe6ec4da3170b1dcd37c82bc800608/assets/Gif_index.gif)
 
 
 2. **Login/Sign-up Page:**
    - Allows users to log in or create a new account.
    - Secure and simple form layout.
-   - ![Uploading ScreenRecording2024-12-11001741-ezgif.com-video-to-gif-converter (1).gif…]()
+   - ![Login Page](https://github.com/AHMAD-JX/game-over/blob/a0ce29ad0bbe6ec4da3170b1dcd37c82bc800608/assets/Gif_login.gif)
 
 
 3. **Games and Offers Page:**
    - Showcases the latest games available for purchase.
    - Displays exclusive deals and promotions.
-   - ![Uploading ScreenRecording2024-12-11002009-ezgif.com-video-to-gif-converter.gif…]()
+   - ![Games Page](https://github.com/AHMAD-JX/game-over/blob/a0ce29ad0bbe6ec4da3170b1dcd37c82bc800608/assets/Gif_index.gif)
 
 
 ---
