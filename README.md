@@ -27,7 +27,8 @@
 3. **Games and Offers Page:**
    - Showcases the latest games available for purchase.
    - Displays exclusive deals and promotions.
-   - ![Games Page](https://github.com/AHMAD-JX/game-over/blob/a0ce29ad0bbe6ec4da3170b1dcd37c82bc800608/assets/Gif_index.gif)
+   - ![Games Page](https://github.com/AHMAD-JX/game-over/blob/a0ce29ad0bbe6ec4da3170b1dcd37c82bc800608/assets/Gif_home.gif
+)
 
 
 ---
